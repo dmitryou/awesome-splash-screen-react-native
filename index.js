@@ -1,4 +1,4 @@
-import AwesomeSplash from './lib/awesomeSplashScreen'
+import AwesomeSplash from './lib/AwesomeSplashScreen'
 
 export {
 	AwesomeSplash,
